@@ -9,6 +9,8 @@ cv:
   social_networks:
     - network: GitHub
       username: alessandro-barletta
+    - network: Google Scholar
+      username: hSRqHJcAAAAJ
 
   # address:
     # street: 
@@ -19,11 +21,33 @@ cv:
 
   sections:
     Education:
+      - institution: University of Houston
+        location: Houston, Texas
+        url: https://www.uh.edu/
+        area: Mathematics
+        studyType: PhD
+        start_date: 2026
+        # end_date: 
+        # score:
+        # courses:
+        # highlights:
+        
       - institution: University of Florida
         location: Gainesville, Florida
         url: https://www.ufl.edu/
-        area: Mathematics, Economics
-        studyType: BS, BA
+        area: Mathematics
+        studyType: BS
+        start_date: 2022
+        end_date: 2025
+        # score:
+        # courses:
+        # highlights:
+
+      - institution: University of Florida
+        location: Gainesville, Florida
+        url: https://www.ufl.edu/
+        area: Economics
+        studyType: BA
         start_date: 2022
         end_date: 2025
         # score:
@@ -83,9 +107,11 @@ cv:
 
     Skills:
       - name: Matlab
-        level: Intermediate
+        # level:
         # icon: 
         # keywords: 
+      - name: R
+      - name: Stata
 
     Languages:
       - name: English
@@ -94,8 +120,8 @@ cv:
       - name: Italian
         summary: "Fluent"
 
-    # Interests:
-      # - name: 
+    Interests:
+      - name: Numerical analysis, scientific computing; eigenvalue problems, numerical solutions to PDEs
         # icon: 
         # keywords: 
         
