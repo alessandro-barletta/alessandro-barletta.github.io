@@ -1,4 +1,4 @@
-cv_pdf: # add path to your CV PDF when you have one, e.g. /assets/pdf/cv.pdf
+# cv_pdf: # add path to your CV PDF when you have one, e.g. /assets/pdf/cv.pdf
 # email: # add your email when you have your UH address
 rss_icon: false
 scholar_userid: hSRqHJcAAAAJ
