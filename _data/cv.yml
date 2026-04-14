@@ -1,21 +1,21 @@
 cv:
   name: Alessandro Barletta
   label: Graduate Student
-  email: 
+  # email: 
   location: Houston, Texas
-  image: 
-  summary:
+  # image: 
+  # summary:
 
   social_networks:
     - network: GitHub
       username: alessandro-barletta
 
-  address:
-    street: 
-    city: 
-    region:
-    postalCode:
-    countryCode:
+  # address:
+    # street: 
+    # city: 
+    # region:
+    # postalCode:
+    # countryCode:
 
   sections:
     Education:
@@ -26,51 +26,38 @@ cv:
         studyType: BS, BA
         start_date: 2022
         end_date: 2025
-        score:
-        courses:
-        highlights:
-          - 
-          - 
+        # score:
+        # courses:
+        # highlights:
 
 
-    Experience:
-      - company: 
-        position: 
-        location: 
-        start_date: 
-        end_date: 
-        summary: 
-        highlights:
-          - 
-          - 
+    # Experience:
+      # - company: 
+        # position: 
+        # location: 
+        # start_date: 
+        # end_date: 
+        # summary: 
+        # highlights:
           
 
-    Volunteer:
-      - company: 
-        position: 
-        location: 
-        start_date: 
-        end_date: 
-        summary: 
-        highlights:
-          - 
-          - 
+    #Volunteer:
+      # - company: 
+        # position: 
+        # location: 
+        # start_date: 
+        # end_date: 
+        # summary: 
+        # highlights:
 
-    Awards:
-      - title: 
-        authors:
-          - 
-        date: 
-        awarder: 
-        url: 
-        summary: 
+    # Awards:
+      # - title:
+        # authors:
+        # date: 
+        # awarder: 
+        # url: 
+        # summary: 
 
-      - title:
-        authors:
-          - 
-        date: 
-        awarder: 
-        summary: 
 
     Publications:
       - title: Momentum accelerated power iterations and the restarted Lanczos method
@@ -81,29 +68,24 @@ cv:
         publisher: Frontiers in Applied Mathematics
         releaseDate: 2026-03-20
         url: https://doi.org/10.3934/fam.2026001
-        summary: In this paper, we compare two methods for finding extremal eigenvalues and eigenvectors: the restarted Lanczos method, and momentum-accelerated power iterations. The convergence of both methods is based on ratios of Chebyshev polynomials evaluated at subdominant and dominant eigenvalues; however, the convergence is not the same. Here, we compare the theoretical convergence properties of both methods, and determine the relative regimes where each is more efficient. We further introduce a preconditioning technique for the restarted Lanczos method using momentum-accelerated power iterations, and demonstrate its effectiveness. The theoretical results are backed up by numerical tests on benchmark problems.
-
-      - title:
-        authors:
-          - 
-        publisher: 
-        releaseDate: 
-        url: 
-        summary:
-        
-      - title: 
-        authors:
-          - 
-        publisher: 
-        releaseDate:
-        url: 
-        summary: 
+        summary: >-
+          In this paper, we compare two methods for finding extremal eigenvalues
+          and eigenvectors: the restarted Lanczos method, and
+          momentum-accelerated power iterations. The convergence of both methods
+          is based on ratios of Chebyshev polynomials evaluated at subdominant
+          and dominant eigenvalues; however, the convergence is not the same.
+          Here, we compare the theoretical convergence properties of both
+          methods, and determine the relative regimes where each is more
+          efficient. We further introduce a preconditioning technique for the
+          restarted Lanczos method using momentum-accelerated power iterations,
+          and demonstrate its effectiveness. The theoretical results are backed
+          up by numerical tests on benchmark problems.
 
     Skills:
-      - name: 
-        level: 
-        icon: 
-        keywords: 
+      - name: Matlab
+        level: Intermediate
+        # icon: 
+        # keywords: 
 
     Languages:
       - name: English
@@ -112,41 +94,26 @@ cv:
       - name: Italian
         summary: "Fluent"
 
-    Interests:
-      - name: 
-        icon: 
-        keywords: 
+    # Interests:
+      # - name: 
+        # icon: 
+        # keywords: 
         
     Certificates:
       - name: Undergraduate Certificate, Econometric & Data Analysis
         date: 2025-05
         issuer: University of Florida
-        icon: 
+        # icon: 
 
-      - name: 
-        date: 
-        issuer: 
-        icon: 
 
-      - name: 
-        date: 
-        issuer: 
-        icon: 
+    # Projects:
+      # - name: 
+        # summary: 
+        # highlights:
+        # start_date:
+        # end_date: 
 
-    Projects:
-      - name: 
-        summary: 
-        highlights:
-          - 
-          - 
-        start_date:
-        end_date: 
-
-    References:
-      - name: 
-        icon:
-        reference:
-
-      - name: 
-        icon: 
-        reference: 
+    # References:
+      # - name: 
+        # icon:
+        # reference:
