@@ -107,8 +107,11 @@ cv:
           up by numerical tests on benchmark problems.
 
     Skills:
-      - label: Programming
-        details: Matlab, R, Stata
+      - name: Programming
+        keywords:
+        - Matlab
+        - R
+        - Stata
 
     # Languages:
       # - name: English
@@ -118,8 +121,7 @@ cv:
       #  summary: "Fluent"
 
     Interests:
-      - label: Research Interests
-        details: Numerical analysis, scientific computing; eigenvalue problems, numerical solutions to PDEs
+      - name: Numerical analysis, scientific computing; eigenvalue problems, numerical solutions to PDEs
         # icon: 
         # keywords: 
         
