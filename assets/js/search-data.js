@@ -45,6 +45,13 @@ ninja.data = [{
           window.open("https://github.com/alessandro-barletta", "_blank");
         },
       },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/barletta_cv_fall_26_public_final.pdf", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
