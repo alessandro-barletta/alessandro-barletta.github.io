@@ -121,9 +121,12 @@ cv:
       #  summary: "Fluent"
 
     Interests:
-      - name: Numerical analysis, scientific computing; eigenvalue problems, numerical solutions to PDEs
+      - name: Research interests
         # icon: 
-        # keywords: 
+        keywords: 
+        - Numerical analysis and scientific computing
+        - eigenvalue problems
+        - numerical solutions to PDEs
         
     Certificates:
       - name: Undergraduate Certificate, Econometric & Data Analysis
