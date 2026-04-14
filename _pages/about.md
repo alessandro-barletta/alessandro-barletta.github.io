@@ -30,4 +30,4 @@ I am an incoming PhD student in Mathematics at the University of Houston, starti
 
 I completed my undergraduate education at the University of Florida (go Gators!). While there, I worked under [Dr. Sara Pollock](https://people.clas.ufl.edu/spollock/) on momentum-accelerated power iterations and Krylov subspace methods. 
 
-I am always open to collaboration!
+I am always open to collaboration! When not doing math, there is a reasonably high probability that I am spending time with my cat, [Roscoe](/roscoe/), whom I adopted when in Gainesville at the now-defunct [Feeline Good Cat Cafè](https://www.instagram.com/feelinegoodcatcafe/).
