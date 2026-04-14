@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-roscoe",
+          title: "Roscoe",
+          description: "The most rigorous editor I know!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/roscoe/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Course materials, schedules, and resources for classes taught.",
