@@ -31,6 +31,13 @@ ninja.data = [{
             window.location.href = "/roscoe/";
           },
         },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6A%61%62%61%72%6C%65%74%74%6F@%75%68.%65%64%75", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
