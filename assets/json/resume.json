@@ -25,31 +25,43 @@
 ]
   },
   "education": [
-    {
-      "institution": "University of Houston",
-      "location": "Houston, Texas",
-      "url": "https://www.uh.edu/",
-      "area": "Mathematics",
-      "studyType": "PhD",
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "score": "",
-      "courses": [],
-      "highlights": []
-    },
-    {
-      "institution": "University of Florida",
-      "location": "Gainesville, Florida",
-      "url": "https://www.ufl.edu/",
-      "area": "Mathematics, Economics",
-      "studyType": "BS, BA",
-      "startDate": "2022-08-01",
-      "endDate": "2025-05-01",
-      "score": "",
-      "courses": [],
-      "highlights": []
-    }
-  ],
+  {
+    "institution": "University of Houston",
+    "location": "Houston, Texas",
+    "url": "https://www.uh.edu/",
+    "area": "Mathematics",
+    "studyType": "PhD",
+    "startDate": "2026-08-01",
+    "endDate": "",
+    "score": "",
+    "courses": [],
+    "highlights": []
+  },
+  {
+    "institution": "University of Florida",
+    "location": "Gainesville, Florida",
+    "url": "https://www.ufl.edu/",
+    "area": "Mathematics",
+    "studyType": "BS",
+    "startDate": "2022-08-01",
+    "endDate": "2025-05-01",
+    "score": "",
+    "courses": [],
+    "highlights": []
+  },
+  {
+    "institution": "University of Florida",
+    "location": "Gainesville, Florida",
+    "url": "https://www.ufl.edu/",
+    "area": "Economics",
+    "studyType": "BA",
+    "startDate": "2022-08-01",
+    "endDate": "2025-05-01",
+    "score": "",
+    "courses": [],
+    "highlights": []
+  }
+],
   "publications": [
     {
       "name": "Momentum accelerated power iterations and the restarted Lanczos method",
@@ -68,30 +80,37 @@
     }
   ],
   "skills": [
-    {
-      "name": "Numerical Methods",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Krylov Subspace Methods",
-        "Finite Element Methods",
-        "Eigenvalue Problems",
-        "Numerical PDEs"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "Italian",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
+  {
+    "name": "Numerical Methods",
+    "level": "",
+    "icon": "fa-solid fa-hashtag",
+    "keywords": [
+      "Krylov Subspace Methods",
+      "Finite Element Methods",
+      "Eigenvalue Problems",
+      "Numerical PDEs"
+    ]
+  },
+  {
+    "name": "Programming",
+    "level": "",
+    "icon": "fa-solid fa-code",
+    "keywords": ["Matlab", "R", "Stata"]
+  }
+],
+
+"languages": [
+  {
+    "language": "English",
+    "fluency": "Native speaker",
+    "icon": ""
+  },
+  {
+    "language": "Italian",
+    "fluency": "Native speaker",
+    "icon": ""
+  }
+],
   "work": [],
   "volunteer": [],
   "awards": [],
