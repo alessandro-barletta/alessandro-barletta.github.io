@@ -53,7 +53,7 @@ cv:
         # score:
         # courses:
         highlights:
-          - "Senior Honors Thesis: [Determinants of the Rate of HIV Incidence](https://ufdc.ufl.edu/AA00115131/00001/pdf)
+          - "Senior Honors Thesis: [Determinants of the Rate of HIV Incidence](https://ufdc.ufl.edu/AA00115131/00001/pdf)"
 
 
     # Experience:
@@ -118,7 +118,8 @@ cv:
       #  summary: "Fluent"
 
     Interests:
-      - name: Numerical analysis, scientific computing; eigenvalue problems, numerical solutions to PDEs
+      - label: Research Interests
+        details: Numerical analysis, scientific computing; eigenvalue problems, numerical solutions to PDEs
         # icon: 
         # keywords: 
         
