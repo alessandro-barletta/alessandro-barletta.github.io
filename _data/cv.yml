@@ -117,11 +117,13 @@ cv:
     Presentations: 
       - title: "Complex Eigenvalues and the Dynamic Power Method with Momentum: What Could Possibly Go Wrong?"
         date: 2025-04
-        venue: Undergraduate Mathematics Research Symposium, Department of Mathematics, University of Florida
-
-      - title: Social Determinants of Health and the Efficacy of Syringe Exchange Programs"
+        event: "Undergraduate Mathematics Research Symposium"
+        institution: "Department of Mathematics, University of Florida"
+    
+      - title: "Social Determinants of Health and the Efficacy of Syringe Exchange Programs"
         date: 2025-04
-        venue: Cutler Scholars Program, Department of Economics, University of Florida
+        event: "Cutler Scholars Program"
+        institution: "Department of Economics, University of Florida"
 
         
     Skills:
