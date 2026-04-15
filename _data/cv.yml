@@ -55,7 +55,14 @@ cv:
         highlights:
           - "Senior Honors Thesis: [Determinants of the Rate of HIV Incidence](https://ufdc.ufl.edu/AA00115131/00001/pdf)"
 
-
+      - institution: University of Florida
+        location: Gainesville, Florida
+        url: https://www.ufl.edu/
+        area: Econometric & Data Analysis
+        studyType: Undergraduate Certificate
+        start_date: 2022
+        end_date: 2025
+        
     Experience:
       - company: Department of Mathematics, College of Liberal Arts and Sciences, University of Florida
         position: Student Assistant
@@ -129,10 +136,10 @@ cv:
         - eigenvalue problems
         - numerical solutions to PDEs
         
-    Certificates:
-      - name: Undergraduate Certificate, Econometric & Data Analysis
-        date: 2025-05
-        issuer: University of Florida
+    # Certificates:
+      # - name: Undergraduate Certificate, Econometric & Data Analysis
+        # date: 2025-05
+        # issuer: University of Florida
         # icon: 
 
 
