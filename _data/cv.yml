@@ -56,14 +56,15 @@ cv:
           - "Senior Honors Thesis: [Determinants of the Rate of HIV Incidence](https://ufdc.ufl.edu/AA00115131/00001/pdf)"
 
 
-    # Experience:
-      # - company: 
-        # position: 
-        # location: 
-        # start_date: 
-        # end_date: 
+    Experience:
+      - company: Department of Mathematics, College of Liberal Arts and Sciences, University of Florida
+        position: Student Assistant
+        location: Gainesville, Florida
+        start_date: 2025-05
+        end_date: 2025-08
         # summary: 
-        # highlights:
+        highlights:
+          - Implemented numerical algorithms in MATLAB and contributed to a published paper on Krylov subspace methods under Dr. Sara Pollock
           
 
     # Volunteer:
@@ -75,13 +76,13 @@ cv:
         # summary: 
         # highlights:
 
-    # Awards:
-      # - title:
-        # authors:
-        # date: 
-        # awarder: 
-        # url: 
-        # summary: 
+    Awards:
+      - title: Cutler Scholar
+        date: 2024-2025
+        awarder: Department of Economics, College of Liberal Arts and Sciences, University of Florida
+        url: https://economics.clas.ufl.edu/academics/bachelor-of-arts-economics/cutler-scholars-program/
+        summary: >-
+          The Cutler Family Undergraduate Scholars Program provides students an opportunity to conduct supervised research one-on-one with a faculty advisor of their choosing. Students complete a year-long research project and submit a paper and short video abstract.
 
 
     Publications:
@@ -109,7 +110,7 @@ cv:
     Skills:
       - name: Programming
         keywords:
-        - Matlab
+        - MATLAB
         - R
         - Stata
 
