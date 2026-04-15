@@ -95,7 +95,7 @@
     "name": "Programming",
     "level": "",
     "icon": "fa-solid fa-code",
-    "keywords": ["Matlab", "R", "Stata"]
+    "keywords": ["MATLAB", "R", "Stata"]
   }
 ],
 
@@ -111,9 +111,29 @@
     "icon": ""
   }
 ],
-  "work": [],
+  "work": [
+  {
+    "name": "Department of Mathematics, College of Liberal Arts and Sciences, University of Florida",
+    "position": "Student Assistant",
+    "location": "Gainesville, Florida",
+    "startDate": "2025-05-01",
+    "endDate": "2025-08-01",
+    "summary": "",
+    "highlights": [
+      "Implemented numerical algorithms in MATLAB and contributed to a published paper on Krylov subspace methods under Dr. Sara Pollock"
+    ]
+  }
+],
   "volunteer": [],
-  "awards": [],
+  "awards": [
+  {
+    "title": "Cutler Scholar",
+    "date": "2024-01-01",
+    "awarder": "Department of Economics, College of Liberal Arts and Sciences, University of Florida",
+    "url": "https://economics.clas.ufl.edu/academics/bachelor-of-arts-economics/cutler-scholars-program/",
+    "summary": "The Cutler Family Undergraduate Scholars Program provides students an opportunity to conduct supervised research one-on-one with a faculty advisor of their choosing."
+  }
+],
   "references": [],
   "projects": [],
   "interests": []
