@@ -60,7 +60,19 @@
     "score": "",
     "courses": [],
     "highlights": []
-  }
+  },
+    {
+  "institution": "University of Florida",
+  "location": "Gainesville, Florida",
+  "url": "https://www.ufl.edu/",
+  "area": "Econometric & Data Analysis",
+  "studyType": "Undergraduate Certificate",
+  "startDate": "2022-08-01",
+  "endDate": "2025-05-01",
+  "score": "",
+  "courses": [],
+  "highlights": []
+}
 ],
   "publications": [
     {
@@ -71,14 +83,7 @@
       "summary": "We compare two methods for finding extremal eigenvalues and eigenvectors: the restarted Lanczos method and momentum-accelerated power iterations, analyzing their theoretical convergence properties and introducing a preconditioning technique."
     }
   ],
-  "certificates": [
-    {
-      "name": "Undergraduate Certificate, Econometric & Data Analysis",
-      "date": "2025-05-01",
-      "issuer": "University of Florida",
-      "icon": ""
-    }
-  ],
+  "certificates": [],
   "skills": [
   {
     "name": "Numerical Methods",
