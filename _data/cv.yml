@@ -64,7 +64,7 @@ cv:
         end_date: 2025-08
         # summary: 
         highlights:
-          - Implemented numerical algorithms in MATLAB and contributed to a published paper on Krylov subspace methods under Dr. Sara Pollock
+          - Implemented numerical algorithms in MATLAB and contributed to a published paper on momentum-accelerated power iterations and the restarted Lanczos method under Dr. Sara Pollock
           
 
     # Volunteer:
